@@ -55,7 +55,7 @@ This report provides key insights and recommendations based on Netflix customer 
 
 ### ❓ b) Age vs. Support Queries  
 - **No significant correlation** between customer age and support queries.  
-- **Most queries come from the 60-80 age group**, suggesting that issues might be **billing, content discovery, or UI/UX-related** rather than technical.  
+- **Most age groups log between 60-80 queries, indicating that the issues are likely related to billing, content discovery, or UI/UX rather than technical problems.  
 
 ---
 
