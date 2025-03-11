@@ -1,5 +1,7 @@
 # NetflixTrends-Engagement-Retention-Analysis
-# 📊 Netflix Customer Analytics - Insight Report
+# 📊 Netflix Customer Analytics - Insight Report <br>
+
+![Dashboard](https://github.com/LogicCraftByHimanshi/NetflixTrends-Engagement-Retention-Analysis/blob/main/Netflix_dashboard_Screenshot.png?raw=true) <br>
 
 ## 📌 Overview  
 This report provides key insights and recommendations based on Netflix customer analytics, including sales, engagement, churn, and user behavior.
